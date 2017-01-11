@@ -1,6 +1,5 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{E7CBF4C0-4C83-C624-32DB-F7ABBF749F49}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -30,5 +29,6 @@
 			"Name": "SteamVR",
 			"Enabled": false
 		}
-	]
+	],
+	"EngineAssociation": ""
 }
